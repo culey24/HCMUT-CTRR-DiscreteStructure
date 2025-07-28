@@ -1,2 +1,2 @@
-g++ main.cpp bellman.cpp tsm.cpp -o main -std=c++11
-./main.exe
+# PathFinder: An Exploration of Graph Algorithms
+> A C++ implementation of the Bellman-Ford algorithm and an analysis of the Traveling Salesman Problem (TSP) using dynamic programming.
